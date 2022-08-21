@@ -1,6 +1,6 @@
 # Adult_Income
 
-## This notebook presents a comprehensive approach to classification task which involvolves several substeps:
+### This notebook presents a comprehensive approach to classification task which involvolves several substeps:
 
 ## 1. Data analysis 
 - Pandas Profiling.
