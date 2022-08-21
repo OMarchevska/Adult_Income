@@ -30,4 +30,4 @@
 ## 6. Confidence intervals calculation
 
 ## 7. Interactive Results 
-- represent model predictions using Jupyter Widgets.
+- represent model's predictions using Jupyter Widgets.
